@@ -1,0 +1,60 @@
+Epoch [1/20], Loss: 0.5238, Accuracy: 86.78%, LR: 0.001000
+Validation Accuracy: 97.97%
+BEST EPOCH: 0, ACCURACY: 97.97%
+Epoch [2/20], Loss: 0.0834, Accuracy: 97.55%, LR: 0.001000
+Validation Accuracy: 98.61%
+BEST EPOCH: 1, ACCURACY: 98.61%
+Epoch [3/20], Loss: 0.0411, Accuracy: 98.88%, LR: 0.001000
+Validation Accuracy: 97.35%
+BEST EPOCH: 1, ACCURACY: 98.61%
+Epoch [4/20], Loss: 0.0632, Accuracy: 98.20%, LR: 0.000100
+Validation Accuracy: 98.93%
+BEST EPOCH: 3, ACCURACY: 98.93%
+Epoch [5/20], Loss: 0.0074, Accuracy: 99.82%, LR: 0.000100
+Validation Accuracy: 99.80%
+BEST EPOCH: 4, ACCURACY: 99.80%
+Epoch [6/20], Loss: 0.0025, Accuracy: 99.95%, LR: 0.000100
+Validation Accuracy: 99.78%
+BEST EPOCH: 4, ACCURACY: 99.80%
+Epoch [7/20], Loss: 0.0012, Accuracy: 99.97%, LR: 0.000100
+Validation Accuracy: 99.90%
+BEST EPOCH: 6, ACCURACY: 99.90%
+Epoch [8/20], Loss: 0.0009, Accuracy: 99.98%, LR: 0.000010
+Validation Accuracy: 99.91%
+BEST EPOCH: 7, ACCURACY: 99.91%
+Epoch [9/20], Loss: 0.0008, Accuracy: 99.98%, LR: 0.000010
+Validation Accuracy: 99.82%
+BEST EPOCH: 7, ACCURACY: 99.91%
+Epoch [10/20], Loss: 0.0018, Accuracy: 99.99%, LR: 0.000010
+Validation Accuracy: 99.89%
+BEST EPOCH: 7, ACCURACY: 99.91%
+Epoch [11/20], Loss: 0.0008, Accuracy: 99.99%, LR: 0.000010
+Validation Accuracy: 99.90%
+BEST EPOCH: 7, ACCURACY: 99.91%
+Epoch [12/20], Loss: 0.0008, Accuracy: 99.98%, LR: 0.000001
+Validation Accuracy: 99.94%
+BEST EPOCH: 11, ACCURACY: 99.94%
+Epoch [13/20], Loss: 0.0005, Accuracy: 99.99%, LR: 0.000001
+Validation Accuracy: 99.91%
+BEST EPOCH: 11, ACCURACY: 99.94%
+Epoch [14/20], Loss: 0.0055, Accuracy: 99.99%, LR: 0.000001
+Validation Accuracy: 99.94%
+BEST EPOCH: 11, ACCURACY: 99.94%
+Epoch [15/20], Loss: 0.0007, Accuracy: 99.99%, LR: 0.000001
+Validation Accuracy: 99.94%
+BEST EPOCH: 11, ACCURACY: 99.94%
+Epoch [16/20], Loss: 0.0009, Accuracy: 99.99%, LR: 0.000000
+Validation Accuracy: 99.91%
+BEST EPOCH: 11, ACCURACY: 99.94%
+Epoch [17/20], Loss: 0.0008, Accuracy: 99.99%, LR: 0.000000
+Validation Accuracy: 99.91%
+BEST EPOCH: 11, ACCURACY: 99.94%
+Epoch [18/20], Loss: 0.0005, Accuracy: 99.99%, LR: 0.000000
+Validation Accuracy: 99.92%
+BEST EPOCH: 11, ACCURACY: 99.94%
+Epoch [19/20], Loss: 0.0004, Accuracy: 99.99%, LR: 0.000000
+Validation Accuracy: 99.92%
+BEST EPOCH: 11, ACCURACY: 99.94%
+Epoch [20/20], Loss: 0.0005, Accuracy: 100.00%, LR: 0.000000
+Validation Accuracy: 99.92%
+BEST EPOCH: 11, ACCURACY: 99.94%
